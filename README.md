@@ -40,7 +40,7 @@ Welcome to my blockchain certification portfolio. This repository contains offic
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com
+- 📧 Email: rajinisoumya4@gmail.com
 - 🔗 [GitHub](https://github.com/RajinisoumyaD)
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajinisoumya/)
 
